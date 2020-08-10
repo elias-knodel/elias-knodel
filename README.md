@@ -1,7 +1,8 @@
-Hello there
-===
+[![stats](https://github-readme-stats.vercel.app/api/pin?username=LazyBytez&repo=otaku-index&show_icons=true&title_color=5194d6&icon_color=5194d6&text_color=8163E3)](https://github.com/LazyBytez/otaku-index)
 
 <div align="center"> 
+ 
+---
   
   <div style="width: 100%; display: flex">
   
