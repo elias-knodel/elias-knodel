@@ -1,7 +1,7 @@
 Hello there
 ===
 
-<div style="align=center"> 
+<div align="center"> 
   
   <div style="width: 100%; display: flex">
   
