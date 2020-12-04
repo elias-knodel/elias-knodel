@@ -7,7 +7,9 @@
   </div>
 
   <div style="width: 100%; display: flex">
-    <a href="https://discord.gg/bcV6TN2k9V"><img src="https://invidget.switchblade.xyz/Ns8Yygf?theme=light" /></a>
+    
   </div>
-  
+  <a href="https://discord.gg/bcV6TN2k9V">
+    <img src="https://img.shields.io/discord/735171597362659328?color=blue&label=Discord&style=for-the-badge"
+        alt="chat on Discord"></a>
 </div>
