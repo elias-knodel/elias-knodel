@@ -7,7 +7,7 @@
   </div>
 
   <div style="width: 100%; display: flex">
-    <a href="https://discord.gg/Ns8Yygf"><img src="https://invidget.switchblade.xyz/Ns8Yygf?theme=light" /></a>
+    <a href="discord.gg/bcV6TN2k9V"><img src="https://invidget.switchblade.xyz/Ns8Yygf?theme=light" /></a>
   </div>
   
 </div>
