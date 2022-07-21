@@ -1,7 +1,7 @@
 <div align="center">
 
   <h3>Elias</h3>
-  <p>Trainee as software developer. Or how we in call it in germany: "Fachinformatiker für Anwendungsentwicklung"</p>
+  <p>Somewhat software developer. Or how we in call it in germany: "Fachinformatiker für Anwendungsentwicklung"</p>
 
   <br>
  
