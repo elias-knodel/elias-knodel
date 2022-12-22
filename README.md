@@ -1,7 +1,7 @@
 <div align="center">
 
   <h3>Elias</h3>
-  <p>Somewhat software developer. Or how we in call it in germany: "Fachinformatiker für Anwendungsentwicklung"</p>
+  <p>Mostly fullstack software developer. Or in german: "Fachinformatiker für Anwendungsentwicklung"</p>
 
   <br>
  
