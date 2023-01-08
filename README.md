@@ -1,7 +1,7 @@
 <div align="center">
 
   <h3>Elias</h3>
-  <p>Mostly fullstack software developer. Or in german: "Fachinformatiker für Anwendungsentwicklung"</p>
+  <p>Mostly fullstack software developer. More backend than styling.</p>
 
   <br>
  
