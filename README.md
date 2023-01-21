@@ -2,8 +2,7 @@
 
   <h3>Elias</h3>
   <hr>
-  <p>Mostly fullstack software developer.</p>
-  <p>Backend > Styling</p>
+  <p>Fullstack software developer.</p>
 
   <br>
  
