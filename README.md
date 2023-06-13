@@ -1,32 +1,31 @@
-<div align="center">
+## Hi Elias here 👋
 
-  <h3>Elias</h3>
-  <hr>
-  <p>Fullstack software developer.</p>
+I'm a self-employed fullstack web developer.
 
+- 🌱 I'm working on some projects together with a friend which you can find on [Lazy Bytez](https://github.com/lazybytez)
+- 💫 I’m interested in uprising open source projects and looking forward to empower free and open software
+- 📚 I’m always learning and love to improve my work
+- 📫 You can reach me using the following mail: [contact@elias-knodel.de](mailto://contact@elias-knodel.de)
+
+-----
+<p align="center">
+  <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <br>
- 
-  ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=272727&logo=php&logoColor=6366F1&style=for-the-badge)
-  ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=272727&logo=typescript&logoColor=6366F1&style=for-the-badge)
-  ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=272727&logo=javascript&logoColor=6366F1&style=for-the-badge)
-  ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJs&color=272727&logo=node.js&logoColor=6366F1&style=for-the-badge)
-  ![GO](https://img.shields.io/static/v1?label=&message=GO&color=272727&logo=go&logoColor=6366F1&style=for-the-badge) 
-  ![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=272727&logo=gnu-bash&logoColor=6366F1&style=for-the-badge)
-
-  ![Symfony](https://img.shields.io/static/v1?label=&message=Symfony&color=272727&logo=symfony&logoColor=6366F1&style=for-the-badge)
-  ![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=272727&logo=svelte&logoColor=6366F1&style=for-the-badge)
-  ![Nuxt](https://img.shields.io/static/v1?label=&message=Nuxt&color=272727&logo=nuxt.js&logoColor=6366F1&style=for-the-badge)
-  ![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=272727&logo=vue.js&logoColor=6366F1&style=for-the-badge)
-
-  ![Git](https://img.shields.io/static/v1?label=&message=Git&color=272727&logo=Git&logoColor=6366F1&style=for-the-badge)
-  ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=272727&logo=GitHub&logoColor=6366F1&style=for-the-badge)
-  ![Nginx](https://img.shields.io/static/v1?label=&message=Nginx&color=272727&logo=Nginx&logoColor=6366F1&style=for-the-badge)
-  ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=272727&logo=linux&logoColor=6366F1&style=for-the-badge)
-  ![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=272727&logo=windows&logoColor=6366F1&style=for-the-badge)
-  ![Mac](https://img.shields.io/static/v1?label=&message=Mac&color=272727&logo=macos&logoColor=6366F1&style=for-the-badge)
-
+  <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
   <br>
+  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+  <img alt="ChatGpt" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-  [![Statistics](https://github-readme-stats.vercel.app/api?username=elias-knodel&show_icons=true&locale=en&count_private=true&bg_color=131723&theme=dark&text_color=818CF8&title_color=6366F1&hide_border=true&icon_color=6366F1)](https://www.github.com/elias-knodel)
-
-</div>
+-----
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elias-knodel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elias-knodel&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elias-knodel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-knodel&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="175x" /></a>
+</p>
